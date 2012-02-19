@@ -1,3 +1,7 @@
+A screen capture program for Android devices on OS X with minimum UI.
+Bundles the screenshot utility from AOSP, so there is no need to get the
+Android SDK.
+
 Copyright (c) 2012 qihn.us
 
    Licensed under the Apache License, Version 2.0 (the "License");
